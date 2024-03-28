@@ -1,7 +1,7 @@
 # Groupwork for groups 19 and 20
 
-
 ## Members
+
 | Name              | Registration Number   | Group |
 |-------------------|-----------------------|-------|
 | Mark Victor Kithinji | SCT212-0105/2022   | 20    |
@@ -15,4 +15,7 @@
 | Julius Murangi    | SCT212-0598/2022      | 19    |
 | Wycliff Arasa     | SCT212-0621/2022      | 19    |
 
+## Folder structure
 
+|
+|-- `BankingManagementSys`  
