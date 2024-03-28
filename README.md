@@ -17,5 +17,5 @@
 
 ## Folder structure
 
-|
+|  
 |-- `BankingManagementSys`  
